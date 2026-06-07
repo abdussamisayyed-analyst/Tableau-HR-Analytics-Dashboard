@@ -7,17 +7,15 @@ This project is an interactive HR Analytics Dashboard developed in Tableau to an
 The dashboard helps HR teams and business stakeholders make data-driven decisions by providing a comprehensive view of employee data through interactive visualizations and filters.
 
 ---
-
 ## Dashboard Preview
 
 ### Dashboard 1 - HR Dashboard Overview
 
-![HR Dashboard Overview](./Hr dashboard Overview.png)
+<img src="Hr dashboard Overview.png" width="1000">
 
 ### Dashboard 2 - HR Analytics & Employee Records
 
-![HR Analytics & Employee Records](./HR Employees Record.png)
-
+<img src="HR Employees Record.png" width="1000">
 ---
 
 ## Business Objectives
