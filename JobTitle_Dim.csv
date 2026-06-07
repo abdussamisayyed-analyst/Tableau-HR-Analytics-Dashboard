@@ -1,0 +1,14 @@
+JobTitleID,JobTitle,Department,EducationLevel
+1,HR Executive,HR,Bachelor's
+2,Operations Manager,Operations,Master's
+3,IT Manager,IT,Master's
+4,Sales Manager,Sales,Bachelor's
+5,HR Manager,HR,Master's
+6,Software Engineer,IT,Bachelor's
+7,Sales Executive,Sales,Bachelor's
+8,Data Analyst,IT,Bachelor's
+9,Business Development,Sales,Master's
+10,Accountant,Finance,Bachelor's
+11,Operations Executive,Operations,Bachelor's
+12,Finance Manager,Finance,Master's
+13,Financial Analyst,Finance,Master's
