@@ -11,11 +11,12 @@ The dashboard helps HR teams and business stakeholders make data-driven decision
 ## Dashboard Preview
 
 ### Dashboard 1 - HR Dashboard Overview
+
 ![HR Dashboard Overview](Hr dashboard Overview.png)
 
 ### Dashboard 2 - HR Analytics & Employee Records
-![HR Analytics & Employee Records](HR Employees Record.png)
 
+![HR Analytics & Employee Records](HR Employees Record.png)
 ---
 
 ## Business Objectives
