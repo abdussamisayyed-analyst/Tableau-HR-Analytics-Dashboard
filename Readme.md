@@ -17,6 +17,7 @@ The dashboard helps HR teams and business stakeholders make data-driven decision
 ### Dashboard 2 - HR Analytics & Employee Records
 
 ![HR Analytics & Employee Records](./HR Employees Record.png)
+
 ---
 
 ## Business Objectives
