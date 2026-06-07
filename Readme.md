@@ -149,7 +149,7 @@ HR-Dashboard-Tableau/
 
 ## Connect With Me
 
-LinkedIn:https://www.linkedin.com/in/sayyed-abdussami-a9b893353/
+LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7469382736781332480/
 
 
 ---
